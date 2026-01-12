@@ -1,1 +1,1 @@
-print("Hello, FlyAIChallanger!")
+print("AI!")
