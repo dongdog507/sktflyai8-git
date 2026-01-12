@@ -1,6 +1,6 @@
 print("Hello, FlyAI!")
 
-for i in range(7):
+for i in range(5):
     for j in range(7):
-        print("0", end=" ")
+        print("X", end=" ")
     print()
